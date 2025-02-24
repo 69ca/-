@@ -1,0 +1,7 @@
+python-telegram-bot==20.3
+yt-dlp
+mutagen
+requests
+Pillow
+instaloader
+pytelegrambotapi
