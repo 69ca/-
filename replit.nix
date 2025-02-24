@@ -1,6 +1,1 @@
-{ pkgs }: {
-    deps = [
-        pkgs.python39Full
-        pkgs.ffmpeg
-    ];
-}
+worker: python main.py
